@@ -3,15 +3,44 @@
     <a href="https://t.me/sergey01abram">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    
   </div>
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p2fr0l7f4wb68mpvdbmt44vnnm1pd0h5gtyitbjn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
   <h1>
     Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=sergey-abramov&style=flat-square&color=blue" alt=""/>
 </div>
+<div>
+
+---
+
+### :information_source: My projects :
+
+<ul>
+    <li>
+        <a href="https://github.com/sergey-abramov/url_shortcut_service">Url_Short_Cut</a> 
+        Java, Spring, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, PowerMock, Lombok.
+    </li>
+    <li>
+    <a href="https://github.com/sergey-abramov/cars_sale">CarSale</a> 
+        Java, PostgreSQL, Hibernate, Spring Boot, Thymeleaf, Bootstrap, Liquibase, Lombok, H2Database.
+    </li>
+    <li>
+    <a href="https://github.com/sergey-abramov/cinema">Cinema</a> 
+        Java, PostgreSQL, JDBC, Spring Boot, Thymeleaf, Bootstrap, Liquibase, Sql2o, Lombok.
+    </li>
+    <li>
+    <a href="https://github.com/sergey-abramov/todo_list_web">Todo_List_Web</a> 
+        Java, PostgreSQL, Hibernate, Spring Boot, Thymeleaf, Bootstrap, Liquibase, H2Database, JUnit, Mockito, PowerMock.
+    </li>
+    <li>
+    <a href="https://github.com/sergey-abramov/dreamjob">DreamJob</a> 
+        Java, PostgreSQL, JDBC, Spring Boot, Thymeleaf, Bootstrap, Liquibase, H2Database, JUnit, Mockito, PowerMock, Sql2o, Lombok.
+    </li>
+</ul>
+  
+</div>
+
 <div>
   
   ---
