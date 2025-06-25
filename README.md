@@ -1,65 +1,58 @@
-<div id="header" align="center"> 
+<div align="center">
+
+  <h1>Hi there! I'm Sergey Abramov</h1>
+
   <div id="badges">
     <a href="https://t.me/sergey01abram">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+    <a href="https://hh.ru/resume/d5cfc09eff0cac747f0039ed1f636c65426972">
+      <img src="https://img.shields.io/badge/HeadHunter-FF3300?style=for-the-badge&logo=headhunter&logoColor=white"/>
     </a>
   </div>
-  <h1>
-    Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<img src="https://komarev.com/ghpvc/?username=sergey-abramov&style=flat-square&color=blue" alt=""/>
 </div>
-<div>
 
 ---
 
-### :information_source: My projects :
+### 🛠 Tech Stack
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<ul>
-    <li>
-        <a href="https://github.com/sergey-abramov/url_shortcut_service">Url_Short_Cut</a> 
-        Java, Spring, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, PowerMock, Lombok.
-    </li>
-    <li>
-    <a href="https://github.com/sergey-abramov/cars_sale">CarSale</a> 
-        Java, PostgreSQL, Hibernate, Spring Boot, Thymeleaf, Bootstrap, Liquibase, Lombok, H2Database.
-    </li>
-    <li>
-    <a href="https://github.com/sergey-abramov/cinema">Cinema</a> 
-        Java, PostgreSQL, JDBC, Spring Boot, Thymeleaf, Bootstrap, Liquibase, Sql2o, Lombok.
-    </li>
-    <li>
-    <a href="https://github.com/sergey-abramov/todo_list_web">Todo_List_Web</a> 
-        Java, PostgreSQL, Hibernate, Spring Boot, Thymeleaf, Bootstrap, Liquibase, H2Database, JUnit, Mockito, PowerMock.
-    </li>
-    <li>
-    <a href="https://github.com/sergey-abramov/dreamjob">DreamJob</a> 
-        Java, PostgreSQL, JDBC, Spring Boot, Thymeleaf, Bootstrap, Liquibase, H2Database, JUnit, Mockito, PowerMock, Sql2o, Lombok.
-    </li>
-</ul>
-  
-</div>
 
-<div>
-  
-  ---
-  
-  ### :man_technologist: About Me :
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-  I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-  - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sergey01abram)
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🚀 My Projects
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-</div>
-</div>
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Cinema Booking](https://github.com/sergey-abramov/cinema) | JDBC, Bootstrap | Ticket reservation system |
+| [URL Shortener](https://github.com/sergey-abramov/url_shortcut_service) | Java, Spring, PostgreSQL | High-performance URL shortening service |
+| [Car Marketplace](https://github.com/sergey-abramov/cars_sale) | Spring Boot, Thymeleaf | Full-stack automotive classifieds |
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sergey-abramov&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-abramov&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+- Telegram: [@sergey01abram](https://t.me/sergey01abram)
+- Email: abramov.develop@yandex.ru
+
+> "Clean code is not written by following rules. It's written by experience." - Robert C. Martin
