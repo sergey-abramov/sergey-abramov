@@ -40,6 +40,8 @@
 | [Cinema Booking](https://github.com/sergey-abramov/cinema) | JDBC, Bootstrap | Ticket reservation system |
 | [URL Shortener](https://github.com/sergey-abramov/url_shortcut_service) | Java, Spring, PostgreSQL | High-performance URL shortening service |
 | [Car Marketplace](https://github.com/sergey-abramov/cars_sale) | Spring Boot, Thymeleaf | Full-stack automotive classifieds |
+| [Snake Game](https://github.com/sergey-abramov/snake_game) | Python, Pygame | Classic snake game |
+
 
 ---
 
