@@ -37,6 +37,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [Telegram AI Chat Bot](https://github.com/sergey-abramov/ai_assistant_chat) | Java, Spring, TelegramAPI, AI | Telegram chat bot for AI chat request |
 | [Cinema Booking](https://github.com/sergey-abramov/cinema) | JDBC, Bootstrap | Ticket reservation system |
 | [URL Shortener](https://github.com/sergey-abramov/url_shortcut_service) | Java, Spring, PostgreSQL | High-performance URL shortening service |
 | [Car Marketplace](https://github.com/sergey-abramov/cars_sale) | Spring Boot, Thymeleaf | Full-stack automotive classifieds |
